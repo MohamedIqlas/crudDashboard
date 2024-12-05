@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/crudDashboard/', // Add this line for GitHub Pages deployment
+  base: '/crudDashboard/',
 });
